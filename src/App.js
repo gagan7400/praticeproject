@@ -18,7 +18,7 @@ const App = () => {
   // json-server --watch db.json --port 4000
   return (
     <>
-      <button onClick={deleted}>delete</button>
+      <button onClick={deleted}>delete</button>simple change 
       {/* <h1> data count :{data.count} </h1>
       <h1> data name :{data.names} </h1>
       <button onClick={() => { dispatch(increment(22)) }}> inc</button>
